@@ -12,12 +12,12 @@ website:
       - text : "CV"
         file : cv.qmd
     right:
-      - about me
+     
       - icon: github
         href: https://github.com/
       - icon: twitter
         href: https://twitter.com
-      - icon: linked-in
+      - icon: linkedin
         href: https://linkedin.com/
 format:
   html:

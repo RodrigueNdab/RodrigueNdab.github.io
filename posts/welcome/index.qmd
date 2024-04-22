@@ -1,12 +1,13 @@
 ---
-title: "Welcome To My Blog"
-author: "Tristan O'Malley"
-date: "2024-04-17"
+title: "COVIDENCE PROJECTS"
+author: "Rodrigue Ndabashinze"
+date: "2024-04-22"
 categories: [news]
 ---
 
-This is the first post in a Quarto blog. Welcome!
+The Covidence student ambassadors are passionate about research and dedicated to the mission of creating trustworthy and actionable knowledge. Over a period of four weeks, the Ambassadors will plan, prepare and deliver a Covidence training event at their institution. Along the way, they will develop their own skills and share their experiences with Covidence’s global community of researchers.F
+Find more informations[here](https://www.covidence.org/blog/meet-the-2023-student-ambassadors/){target="_blank"} 
 
-![](thumbnail.jpg)
+![](index.jpg)
 
-Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.
+

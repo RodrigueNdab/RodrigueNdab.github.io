@@ -2,10 +2,9 @@
   {
     "listing": "/portfolio.html",
     "items": [
-      "/posts/cv.html",
       "/posts/portfolio.html",
-      "/posts/post-with-code/index.html",
-      "/posts/welcome/index.html"
+      "/posts/welcome/index.html",
+      "/posts/post-with-code/index.html"
     ]
   }
 ]
